@@ -9,5 +9,7 @@ Second Week- So this week went in mostly travel, I got my grads degree this week
 
 Third Week- This week started with a bang again with 4 interviews in 3 days, it was right on target, I gained the lost interview confidence, Lets go kill more interviews.
 
+Update 3rd Week, Got selected for first job at eunimart, Hyderabad India ;)
+
 ## 🔗 Links
 [![portfolio](https://user-images.githubusercontent.com/12949683/67964228-e01fe480-fc3a-11e9-86cf-8c291bda13a3.png)](https://cerulean-jar-92b.notion.site/Job-Applications-c6cc88b1a07e43b59db1a043220cdaf0)
