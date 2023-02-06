@@ -1,0 +1,53 @@
+Amazon Hydrebad | Round 1 | DSA
+
+1. Sort arrays in subsets
+
+
+Input array :
+[1,2,6,7,9,0], n=3
+
+output array
+[1,2,6,0,7,9
+
+Solution
+
+function sortSubsets(input, n){
+    var arr=[]
+    
+    for(let i=0;i<input.length;i+=n){
+        var subset=input.slice(i,i+n)
+        arr.push(subset)
+    }
+    
+    var res=[]
+    
+    for(let i=0;i<arr.length;i++){
+        arr[i]=arr[i].sort((a,b)=>a-b)
+        res.push(...arr[i])
+    }
+    
+    return res
+}
+
+2. https://leetcode.com/problems/intersection-of-three-sorted-arrays/
+
+
+Solution 
+
+function sortSubsets(input, n){
+    var arr=[]
+    
+    for(let i=0;i<input.length;i+=n){
+        var subset=input.slice(i,i+n)
+        arr.push(subset)
+    }
+    
+    var res=[]
+    
+    for(let i=0;i<arr.length;i++){
+        arr[i]=arr[i].sort((a,b)=>a-b)
+        res.push(...arr[i])
+    }
+    
+    return res
+}
