@@ -13,5 +13,7 @@ Update 3rd Week, Got selected for first job at eunimart, Hyderabad India ;)
 
 Week 4- Gave Interview Round 1 for Amazon, and also got a revert from FalconBrik, preparing for the next Founders round.
 
+Week 5- Went for the last round at amazon, was being called hyd for doing the same, Was offered to join them right there, joined on 20th Feb, closing this episode of job hunt..
+
 ## 🔗 Links
 [![portfolio](https://user-images.githubusercontent.com/12949683/67964228-e01fe480-fc3a-11e9-86cf-8c291bda13a3.png)](https://cerulean-jar-92b.notion.site/Job-Applications-c6cc88b1a07e43b59db1a043220cdaf0)
